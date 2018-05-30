@@ -1,2 +1,2 @@
 def tweet():
-	return "as you know"
+	return "This is our channel, remember to subscribe"
